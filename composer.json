@@ -1,0 +1,15 @@
+{
+    "name": "abdul/test",
+    "autoload": {
+        "psr-4": {
+            "Abdul\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdhamid937",
+            "email": "abdhamid937@gmail.com"
+        }
+    ],
+    "require": {}
+}
